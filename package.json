@@ -1,0 +1,23 @@
+{
+  "name": "awsserverless-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcavic/AwsServerless-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcavic/AwsServerless-/issues"
+  },
+  "homepage": "https://github.com/zcavic/AwsServerless-#readme",
+  "dependencies": {
+    "aws-cdk": "^1.134.0",
+    "aws-cli": "^0.0.2"
+  }
+}
